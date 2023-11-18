@@ -1,0 +1,17 @@
+E:\code\TestGoogleAPI\bin\Debug\net7.0\TestGoogleAPI.exe
+E:\code\TestGoogleAPI\bin\Debug\net7.0\TestGoogleAPI.deps.json
+E:\code\TestGoogleAPI\bin\Debug\net7.0\TestGoogleAPI.runtimeconfig.json
+E:\code\TestGoogleAPI\bin\Debug\net7.0\TestGoogleAPI.dll
+E:\code\TestGoogleAPI\bin\Debug\net7.0\TestGoogleAPI.pdb
+E:\code\TestGoogleAPI\obj\Debug\net7.0\TestGoogleAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\TestGoogleAPI\obj\Debug\net7.0\TestGoogleAPI.AssemblyInfoInputs.cache
+E:\code\TestGoogleAPI\obj\Debug\net7.0\TestGoogleAPI.AssemblyInfo.cs
+E:\code\TestGoogleAPI\obj\Debug\net7.0\TestGoogleAPI.csproj.CoreCompileInputs.cache
+E:\code\TestGoogleAPI\obj\Debug\net7.0\TestGoogleAPI.dll
+E:\code\TestGoogleAPI\obj\Debug\net7.0\refint\TestGoogleAPI.dll
+E:\code\TestGoogleAPI\obj\Debug\net7.0\TestGoogleAPI.pdb
+E:\code\TestGoogleAPI\obj\Debug\net7.0\TestGoogleAPI.genruntimeconfig.cache
+E:\code\TestGoogleAPI\obj\Debug\net7.0\ref\TestGoogleAPI.dll
+E:\code\TestGoogleAPI\bin\Debug\net7.0\HtmlAgilityPack.dll
+E:\code\TestGoogleAPI\obj\Debug\net7.0\TestGoogleAPI.csproj.AssemblyReference.cache
+E:\code\TestGoogleAPI\obj\Debug\net7.0\TestGoogleAPI.csproj.CopyComplete

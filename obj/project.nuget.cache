@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5bhsv2udDXZMNMUST0dV+or9s8IxZUWwBeEh4TW0TLmc9uznzf+fxRCYNqstTlxmJjIXkJmU3bWI8FiPZPPvBg==",
+  "success": true,
+  "projectFilePath": "E:\\code\\TestGoogleAPI\\TestGoogleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MicroApt\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
